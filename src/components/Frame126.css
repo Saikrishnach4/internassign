@@ -1,0 +1,339 @@
+.per-client {
+  position: relative;
+  display: inline-block;
+  width: 557.26px;
+}
+.input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 26px 20px;
+  gap: 52px;
+  width: 256px;
+  /* width: 266px; */
+  x: ;
+  background: #F1F1F1;
+  border-radius: 5px;
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.click-me1 {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-family: var(--heading-3);
+  color: var(--white);
+  text-align: left;
+}
+.search-icon {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.buttons1,
+.input-parent {
+  display: flex;
+  flex-direction: row;
+}
+.buttons1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-22xl);
+  background-color: var(--color-black);
+  border-radius: var(--br-8xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.input-parent {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.amount,
+.client,
+.edit,
+.end-date,
+.interval,
+.send {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+}
+.amount,
+.edit,
+.end-date,
+.interval,
+.send {
+  left: 327px;
+}
+.amount,
+.edit,
+.end-date,
+.interval {
+  left: 457px;
+}
+.amount,
+.edit,
+.interval {
+  left: 650px;
+}
+.amount,
+.edit {
+  left: 780.09px;
+}
+.edit {
+  left: 938.09px;
+}
+.client-parent {
+  width: 969.09px;
+  height: 18px;
+}
+.client-parent,
+.frame-child,
+.frame-item {
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-child {
+  border-top: 1px solid var(--line-light);
+  box-sizing: border-box;
+  width: 1048.38px;
+  height: 1px;
+  z-index: 0;
+}
+.frame-item {
+  border-radius: var(--br-8xs);
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.madebymack {
+  position: relative;
+  font-weight: 500;
+}
+.rectangle-parent {
+  width: 283px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.div,
+.div1 {
+  font-weight: 500;
+  display: inline-block;
+}
+.div {
+  position: relative;
+  width: 87.48px;
+  flex-shrink: 0;
+}
+.div1 {
+  width: 147.62px;
+}
+.div1,
+.div2,
+.right-icon {
+  position: relative;
+  flex-shrink: 0;
+}
+.div2 {
+  font-weight: 500;
+  display: inline-block;
+  width: 114.5px;
+}
+.right-icon {
+  width: 13.5px;
+  height: 13.5px;
+}
+.buttons2,
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.buttons2 {
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-black);
+  padding: var(--padding-mini) var(--padding-7xl);
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.frame-container {
+  width: 1049px;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  z-index: 1;
+}
+.frame-inner {
+  position: relative;
+  border-top: 1px solid var(--line-light);
+  box-sizing: border-box;
+  width: 1048.38px;
+  height: 1px;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-div {
+  width: 1049px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  z-index: 3;
+}
+.line-div {
+  position: relative;
+  border-top: 1px solid var(--line-light);
+  box-sizing: border-box;
+  width: 1048.38px;
+  height: 1px;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.frame-parent1 {
+  width: 1049px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  z-index: 5;
+}
+.frame-child2,
+.year {
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-child2 {
+  border-top: 1px solid var(--line-light);
+  box-sizing: border-box;
+  width: 1048.38px;
+  height: 1px;
+  z-index: 6;
+}
+.year {
+  font-weight: 500;
+  display: inline-block;
+  width: 86.45px;
+}
+.frame-parent2 {
+  width: 1049px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  z-index: 7;
+}
+.frame-child4 {
+  position: relative;
+  border-top: 1px solid var(--line-light);
+  box-sizing: border-box;
+  width: 1048.38px;
+  height: 1px;
+  flex-shrink: 0;
+  z-index: 8;
+}
+.click-me6 {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-family: var(--heading-3);
+  color: var(--color-black);
+  text-align: left;
+}
+.buttons6,
+.frame-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.buttons6 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-mini) var(--padding-7xl);
+  background-color: transparent;
+  border-radius: var(--br-8xs);
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.frame-parent3 {
+  width: 1049px;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  z-index: 9;
+}
+.frame-child6 {
+  position: relative;
+  border-top: 1px solid var(--line-light);
+  box-sizing: border-box;
+  width: 1048.38px;
+  height: 1px;
+  flex-shrink: 0;
+  z-index: 10;
+}
+.frame-parent4 {
+  width: 1049px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  z-index: 11;
+}
+.pause {
+  position: relative;
+}
+.pause-parent {
+  margin: 0 !important;
+  position: absolute;
+  top: 154px;
+  left: 889px;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  box-shadow: 0 4px 26px rgba(0, 0, 0, 0.13);
+  padding: var(--padding-4xl) var(--padding-5xl);
+  align-items: flex-start;
+  gap: var(--gap-3xs);
+  z-index: 12;
+}
+.frame-group,
+.line-parent,
+.pause-parent,
+.per-client-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.line-parent {
+  align-items: flex-end;
+  position: relative;
+  gap: var(--gap-xs);
+  font-size: var(--paragraph-size);
+  color: var(--color-black);
+}
+.frame-group,
+.per-client-parent {
+  align-items: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--topper-text-size);
+  color: var(--text);
+}
+.per-client-parent {
+  position: absolute;
+  top: 546.17px;
+  left: 341px;
+  gap: var(--gap-6xl);
+  text-align: left;
+  font-size: var(--heading-2-size);
+  color: var(--color-black);
+  font-family: var(--heading-3);
+}

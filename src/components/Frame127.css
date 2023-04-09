@@ -1,0 +1,132 @@
+.logo-icon {
+  position: relative;
+  width: 104.65px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.home-icons {
+  width: 17.5px;
+  height: 17.5px;
+  flex-shrink: 0;
+}
+.home-icons,
+.name {
+  position: relative;
+}
+.home-icons-parent,
+.nav-tabs {
+  display: flex;
+  justify-content: flex-start;
+}
+.home-icons-parent {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xl);
+}
+.nav-tabs {
+  border-radius: var(--br-8xs);
+  width: 210px;
+  flex-direction: column;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+.name4 {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-family: var(--heading-3);
+  color: var(--color-black);
+  text-align: left;
+}
+.repeat-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xl);
+}
+.logo-parent,
+.nav-tabs-parent,
+.nav-tabs4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav-tabs4 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl);
+  background-color: var(--accent);
+  border-radius: var(--br-8xs);
+  width: 210px;
+  box-sizing: border-box;
+}
+.logo-parent,
+.nav-tabs-parent {
+  gap: var(--gap-3xs);
+}
+.logo-parent {
+  align-items: center;
+  gap: var(--gap-46xl);
+  z-index: 0;
+}
+.frame-child8 {
+  z-index: 1;
+}
+.vector-icon,
+.vector-wrapper {
+  position: absolute;
+  margin: 0 !important;
+  top: 8.76px;
+  left: 7.61px;
+  width: 14.11px;
+  height: 10.49px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.vector-wrapper {
+  top: 3.5px;
+  left: -14px;
+  border-radius: var(--br-13xl);
+  background-color: var(--lines);
+  width: 28px;
+  height: 28px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  z-index: 2;
+}
+.frame-parent6,
+.frame-wrapper,
+.recurring-invoices-inner,
+.vector-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent6 {
+  align-items: center;
+  position: relative;
+  gap: var(--gap-105xl);
+}
+.frame-wrapper,
+.recurring-invoices-inner {
+  align-items: flex-start;
+}
+.recurring-invoices-inner {
+  position: absolute;
+  top: 16.63px;
+  left: 21px;
+  border-radius: var(--br-mini);
+  background-color: var(--white);
+  box-shadow: 0 4px 60px rgba(0, 0, 0, 0.1);
+  height: 895px;
+  flex-direction: row;
+  padding: var(--padding-11xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--secondary);
+  font-family: var(--heading-3);
+}

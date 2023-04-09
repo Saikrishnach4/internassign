@@ -1,0 +1,55 @@
+.b {
+  position: relative;
+  font-size: var(--heading-2-size);
+  color: var(--color-black);
+}
+.recurring-invoices-parent {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--bg);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-14xl) var(--padding-xl);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+
+
+.recurring-revenue {
+  position: relative;
+  text-transform: uppercase;
+}
+.month1 {
+  font-size: var(--paragraph-size);
+}
+.month {
+  position: relative;
+  color: var(--color-black);
+  font-size: var(--heading-2-size);
+}
+.frame-parent {
+  position: absolute;
+  top: 335px;
+  left: 339px;
+  width: 1050px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+  text-align: left;
+  font-size: var(--topper-text-size);
+  color: var(--text);
+  font-family: var(--heading-3);
+}
+
+
+
+
+
+
+
+
+
+
